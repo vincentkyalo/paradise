@@ -1,0 +1,7 @@
+{
+  "name": "Hospitality Business Management CRM",
+  "description": "Comprehensive enterprise hospitality management system unifying Bar & Club POS, Hotel Rooms, Butchery Counter, Restaurant, CCTV monitoring, Inventory, and Multi-role operations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
